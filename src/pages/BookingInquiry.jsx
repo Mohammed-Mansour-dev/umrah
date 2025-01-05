@@ -49,7 +49,7 @@ const BookingInquiry = () => {
 
   return (
     <div
-      className="min-h-[80vh] [background-image:url('./air.jpg')] bg-no-repeat bg-cover bg-fixed bg-center font-SST items-center justify-center"
+      className="min-h-[80vh] [background-image:url('/air.jpg')] bg-no-repeat bg-cover bg-fixed bg-center font-SST items-center justify-center"
    
     >
       <div className="max-w-4xl backdrop-blur-sm h-fit pt-14 flex flex-col mx-auto">
